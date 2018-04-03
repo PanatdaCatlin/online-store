@@ -1,6 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 body{
   background-color: lightyellow;
+   margin-bottom: 100px;
 }
 .footer {
   position: fixed;
